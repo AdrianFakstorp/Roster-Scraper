@@ -15,3 +15,5 @@ for num in range(2,totalRows):
     print nickname
     print name
     print position
+
+#adding a test to it
